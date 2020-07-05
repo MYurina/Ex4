@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="Ex4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="jar://C:/Program Files/IBM/MQ/java/lib/bcpkix-jdk15on.jar!/" />
+      <root url="jar://C:/Program Files/IBM/MQ/java/lib/bcprov-jdk15on.jar!/" />
+      <root url="jar://C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.allclient.jar!/" />
+      <root url="jar://C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.commonservices.jar!/" />
+      <root url="jar://C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.headers.jar!/" />
+      <root url="jar://C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.jar!/" />
+      <root url="jar://C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.jmqi.jar!/" />
+      <root url="jar://C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.pcf.jar!/" />
+      <root url="jar://C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.tools.ras.jar!/" />
+      <root url="jar://C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.traceControl.jar!/" />
+      <root url="jar://C:/Program Files/IBM/MQ/java/lib/com.ibm.mqjms.jar!/" />
+      <root url="jar://C:/Program Files/IBM/MQ/java/lib/fscontext.jar!/" />
+      <root url="jar://C:/Program Files/IBM/MQ/java/lib/jms.jar!/" />
+      <root url="jar://C:/Program Files/IBM/MQ/java/lib/org.json.jar!/" />
+      <root url="jar://C:/Program Files/IBM/MQ/java/lib/providerutil.jar!/" />
+      <root url="file://C:/Program Files/IBM/MQ/java" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://C:/Program Files/IBM/MQ/java/doc/WMQJMSClasses" />
+      <root url="file://C:/Program Files/IBM/MQ/java/doc/WMQJavaClasses" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.allclient.jar!/" />
+      <root url="jar://C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.jmqi.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$" recursive="false" />
+  </library>
+</component>
